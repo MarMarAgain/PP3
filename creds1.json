@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "code-institute-pp3",
+  "private_key_id": "5d56a626df880e65bf398ee8769dab4bd390ea9a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDUpH8fdJo30qwH\nu+Ckrnn1WtNqXYgcPdnSN8zbg3zk2OgKj61A8rHLTTLZSpstdiJb0QyaGLvJFQ9g\no+WqdRIf3AtBXbHlNw4eVN5UC444aX54SEsmYjNwKZTTdhSgJi+z0UpxAwXPB3WM\nBo2TENdj623RPyN/SEjMiJt6wQCtN/5WT/6pgJb0/r1S0ux2B6qcKRnCtGeI9Zo6\nQUJ6jnDxsHlUHZuBKV9Augs06g88D48M1VXt6tz4LCvLF6oNYILaHhXtGvoxDpDV\n1bsI7WNTMVnsifkJ0wM419UUtFr4vdgeXyzhI9DhwF8VXcNF1O3vCa4EHVBpyHot\nJYZT5pp1AgMBAAECggEAFh5aPsphNEdMr61CS77+XqAo95ptCwr/+lbljzvZJPDP\nCjIxwly8U7pe/K0/APaV0lknZ2wFNIBlThceT6HH1dqMrSry0zXr2QnY6oMdMw7+\nIcLbVk3GrfcVTP2uXY47TggKJ0E6PHO5LWyNE2wgC3u0u5xGs/mv4N6g1Z731Ayb\ncvtBnSSPIpZEMWF367l0eWaWICHCMQ/7RIZkIple73oR5Xmqr5+u83zDKuyENHdd\nlVDehK3ctwI4DfyDMLdAIyosH5RoaGSPe9+OS6UajRrTPat77ZEXaTlTIr0LyzdR\nxtpOEZXMVE3iFsUwxFnje8zhCxZVBm2zv73bTKHIbQKBgQDtw6en6BA8skNhHcmR\nBAnYB5BzXFDOREfK2AU5K30SQI3udjWfn6pIauWfv8U+K7oWck48YePyCEQaWOFf\nAw07u6GU5EgJFsDdBgB5wfiE8aBSA7QQOBaVGnZ1fOWhWm1qRkXeW1k68OiiTcxS\nlc2ZqvrCdJXI9zMXKi2i4ZMTiwKBgQDk85fn4jdfvOoyf7R5x+/FLexy7NVyof35\nRihVbfSCTE3wnY5zeg+lt/xaC3GIb8XKcacjjZcIMiceGAaOcJDoeDByss6pRWDS\nU4fQYoFsP8rGUrVUEbnW/itu/Mf7qiOg31fyyMqNJkXdugnaYSRwZ6UjhCL+ubgx\nH9LvQerJ/wKBgCMJ5FkwL8RiGN/k/eFrEPBPHRCDGD1tfo78CrkEGaho7wGnVfuy\nEeweJLzIDA8/bmsEaVcorejrIu4nDv9rebXFzugcRCliuwVXbxaCaVdeLFwpw41o\nVpuejLp/r2953gn9VSqRl7LB8eaJRIUfIm907QNfHvvAwjy1sIgCaiRFAoGAUnho\ndI+o8KSFG/GiWeeqN7WmIXOsI2G0sXETIEq+M502ygCHCpOiRUhz7x+GIuZYMeck\nlIrxJ3OhYZa37eEgYYzBrt830AN8r+aE2oxRIGQOL8glJwZHkej2TkFh7AZKVS1+\naaboR1XM/uR/nhk13gOHmbaEQIs3jQJwodx1rZMCgYBbOh4Qo50XqzzsEGI5z1xx\nq08U1wUuoWebmvaZ0khQKRl+iY2rNhs9Epry+5jzwfKtD+hoC5km+FRgEsZfNrCa\nL6Bn+hwjwDR+zjX9VxO7SXnXIGWL2b144CmFriykIOcwopkEx3evCxLkoun6Hgc9\ngACmqXa9N/UJvvYB7ZWY6w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "code-institute-pp3@code-institute-pp3.iam.gserviceaccount.com",
+  "client_id": "110030728088614609609",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/code-institute-pp3%40code-institute-pp3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
